@@ -39,3 +39,6 @@ build/
 *.ipr
 *~
 *.swp
+/AndroidMidi/.nb-gradle/
+/UsbMidiDemo/.nb-gradle/
+/AndroidMidi/private/
